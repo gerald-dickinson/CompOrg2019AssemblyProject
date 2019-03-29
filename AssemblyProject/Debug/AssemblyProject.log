@@ -1,0 +1,8 @@
+﻿  CryptoMain_Initial.cpp
+  DecryptData_Initial.cpp
+  EncryptData_Initial.cpp
+  SHA-256.cpp
+  Generating Code...
+c:\users\gdick\source\repos\assemblyproject\assemblyproject\cryptomain_initial.cpp(113): warning C4731: 'exCountLetters': frame pointer register 'ebp' modified by inline assembly code
+c:\users\gdick\source\repos\assemblyproject\assemblyproject\cryptomain_initial.cpp(122): warning C4731: 'exCountLetters': frame pointer register 'ebp' modified by inline assembly code
+  AssemblyProject.vcxproj -> C:\Users\gdick\source\repos\AssemblyProject\Debug\AssemblyProject.exe
